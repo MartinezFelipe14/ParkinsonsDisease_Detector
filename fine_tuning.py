@@ -7,7 +7,7 @@ from sklearn.preprocessing import StandardScaler, MinMaxScaler
 import pandas as pd
 import os
 
-# Carregar base de dados
+
 diretorio_atual = os.getcwd()
 
 caminho_dataset = os.path.join(diretorio_atual, 'datasets', 'parkinsons.data')

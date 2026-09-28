@@ -40,7 +40,6 @@ def preprocess_new_data(caminho_novo_dataset):
 
     novos_dados = pd.read_csv(caminho_novo_dataset)
 
-    # separando os dados subject e outros para a tabela final
     previsao_final = novos_dados[[
         'subject#', 'age', 'sex', 'test_time']]
 

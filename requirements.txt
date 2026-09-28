@@ -4,13 +4,5 @@ scikit-learn==1.4.1.post1
 seaborn==0.13.2
 matplotlib==3.8.4
 scikit-optimize==0.10.1
-<<<<<<< HEAD
-<<<<<<< HEAD
-xgboost==2.0.3
-=======
-xgboost==2.0.3
->>>>>>> 8129ed49483cfca0c6811632280b39858708e66f
-=======
 xgboost==2.0.3
 
->>>>>>> f9b07a9 (update gitignore)
